@@ -2,4 +2,10 @@ Test
 Test from Brouser.
 
 
+<<<<<<< HEAD
 Add 3 lines.
+=======
+
+
+Add new 5 lines.
+>>>>>>> 13d4f783fde86625c25435e65e5575be335570b4
